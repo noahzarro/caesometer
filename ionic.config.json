@@ -1,5 +1,7 @@
 {
   "name": "caesometer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
